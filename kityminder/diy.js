@@ -21,7 +21,7 @@
         'background-color': '#fff',
         'min-width': '60px',
         'text-decoration': 'none',
-        color: '#999',
+        color: '#444',
         'padding': '0 10px',
         border: 'none',
         'border-right': '1px solid #ccc',
